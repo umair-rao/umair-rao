@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umair Muqeem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" width="400" src=https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media" alt="coding-image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umair-rao&label=Profile%20views&color=0e75b6&style=flat" alt="umair-rao" /> </p>
 
