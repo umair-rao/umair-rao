@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umair-rao&label=Profile%20views&color=0e75b6&style=flat" alt="umair-rao" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umair-rao" alt="umair-rao" /></a> </p>
-
 - 🔭 I’m currently working on **JavaScript AND Networking**
 
 - 🌱 I’m currently learning **React.js**
