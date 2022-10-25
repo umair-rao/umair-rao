@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umair-rao&label=Profile%20views&color=0e75b6&style=flat" alt="umair-rao" /> </p>
 
-<p align="left"> <a href="https://twitter.com/umair_ra0" target="blank"><img src="https://img.shields.io/twitter/follow/umair_ra0?logo=twitter&style=for-the-badge" alt="umair_ra0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umair-rao" alt="umair-rao" /></a> </p>
 
 - 🔭 I’m currently working on **JavaScript AND Networking**
 
