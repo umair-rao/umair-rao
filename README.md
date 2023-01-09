@@ -25,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umair-rao&show_icons=true&locale=en" alt="umair-rao" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umair-rao&" alt="umair-rao" /></p>
-
-![Umair-rao's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=umair-rao&theme=redical&hide_border=true&area=true)
