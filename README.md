@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **JavaScript AND Networking**
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React.js, Next.js, JavaScript, CSS, HTML**
 
