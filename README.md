@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umair-rao&label=Profile%20views&color=0e75b6&style=flat" alt="umair-rao" /> </p>
 
-- 🔭 I’m currently working on **JavaScript AND Networking**
-
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React.js, Next.js, JavaScript, CSS, HTML**
