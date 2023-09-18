@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React.js, Next.js, JavaScript, CSS, HTML**
+- 💬 Ask me about **Next.js, React.js, Redux, JavaScript, CSS, HTML, Bootstrap, Tailwind**
 
 - 📫 How to reach me **umairmuqeem@gmail.com**
 
