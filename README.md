@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umair-rao&label=Profile%20views&color=0e75b6&style=flat" alt="umair-rao" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **Next.js, React.js, Redux, JavaScript, CSS, HTML, Bootstrap, Tailwind**
+- 💬 Ask me about **Next.js, React.js, Redux, JavaScript, SAAS, CSS, HTML, Bootstrap, Tailwind**
 
 - 📫 How to reach me **umairmuqeem@gmail.com**
 
